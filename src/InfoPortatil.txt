@@ -1,0 +1,12 @@
+Software
+======
+Python version	2.7.5+
+Sistema Operativo	Linux-3.11.0-18-generic-x86_64-with-Ubuntu-13.10-saucy
+Python date	Feb 27 2014 19:37:08
+
+Hardware
+======
+CPU type	Intel(R) Core(TM) i3-2328M CPU @ 2.20GHz
+vendor ID	GenuineIntel
+CPU speed	800.000Hz
+cache size	3072 KB
